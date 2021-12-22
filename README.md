@@ -4,7 +4,8 @@
 
 Đó là một khóa học rất hay để mọi người có thể bắt đầu con đường trở thành fullsatck developer
 Mình xin cảm ơn `javaScript Mastery` đã cung cấp một học rất bổ ích như thế cho mọi người ai cũng có thể học được
-[nguồn](https://www.youtube.com/c/JavaScriptMastery)
+
+Và đây là [nguồn](https://www.youtube.com/c/JavaScriptMastery)
 
 
 
